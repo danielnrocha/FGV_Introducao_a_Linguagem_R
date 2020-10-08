@@ -1,3 +1,6 @@
+#Análises sobre o Avanço do Coronavírus
+#Daniel N. Rocha
+
 #Importando as bibliotecas que serão usadas 
 library(ggpubr)
 library(purrr)
